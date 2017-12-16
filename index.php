@@ -8,7 +8,7 @@ $tscoren=($tscore*2.51);
  ?>
 
 
-</<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
