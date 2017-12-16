@@ -5,11 +5,9 @@ if(!empty($USERPROFILE['courses'])) { $s1=1;} if(!empty($USERPROFILE['address'])
 if(!empty($USERPROFILE['profile_avatar'])) { $s4=1;} if(!empty($USERPROFILE['last_companies'])) { $s5=1;}
 $tscore=($s1+$s2+$s3+$s4+$s5+5)*10;
 $tscoren=($tscore*2.51);
-<<<<<<< HEAD
 echo "master php";
  ?>
  
-=======
  ?>
 
 
@@ -27,4 +25,3 @@ echo "master php";
     My app demo
 </body>
 </html>
->>>>>>> ui/productform
